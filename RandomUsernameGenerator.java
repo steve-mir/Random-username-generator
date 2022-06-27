@@ -1,0 +1,7 @@
+/**
+ * RandomUsernameGenerator
+ */
+public class RandomUsernameGenerator {
+
+    
+}
